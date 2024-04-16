@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1jJnbXrbURlZZuTe-9v1WwluK8EUit-VK
 """
 
-!pip install --pre pycaret
+#!pip install --pre pycaret
 
 import pandas as pd
 import numpy as np
